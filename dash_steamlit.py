@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 import altair as alt
 import streamlit as st
 st.set_page_config(page_title="Dashboard de Dados Meteorológicos", layout="wide")
